@@ -1,3 +1,3 @@
-let s = 12345;
-let t = 54321;
-console.log(s) ;
+let a = 129 ; 
+let b = 921;
+console.log(a) ;
